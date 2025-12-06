@@ -155,7 +155,7 @@ db.serialize(() => {
             { menu: 'Home', title: 'ITDOG - 在线ping', url: 'https://www.itdog.cn/tcping', logo_url: '', desc: '在线tcping'  },
             { menu: 'Home', title: 'Ping0', url: 'https://ping0.cc', logo_url: '', desc: 'ip地址查询'  },
             { menu: 'Home', title: '浏览器指纹', url: 'https://www.browserscan.net/zh', logo_url: '', desc: '浏览器指纹查询'  },
-            { menu: 'Home', title: 'nezha面板', url: 'https://ssss.nyc.mn', logo_url: 'https://nezha.wiki/logo.png', desc: 'nezha面板'  },
+            { menu: 'Home', title: 'komari面板', url: 'https://komari.251236.xyz', logo_url: 'https://nezha.wiki/logo.png', desc: 'komari面板'  },
             { menu: 'Home', title: 'Api测试', url: 'https://hoppscotch.io', logo_url: '', desc: '在线api测试工具'  },
             { menu: 'Home', title: '域名检查', url: 'https://who.cx', logo_url: '', desc: '域名可用性查询' },
             { menu: 'Home', title: '域名比价', url: 'https://www.whois.com', logo_url: '', desc: '域名价格比较' },
@@ -293,3 +293,4 @@ db.serialize(() => {
 
 
 module.exports = db; 
+
